@@ -24,8 +24,10 @@ Net::DNS::Codes provides forward and reverse lookup for most
 common C library DNS codes as well as all the codes for the DNS 
 HEADER field.
 
-# %description -l pl
-# TODO
+%description -l pl
+Net::DNS::Codes dostarcza wyszukiwanie zwyk³e i odwrotne dla
+wiêkszo¶ci popularnych kodów DNS biblioteki C, a tak¿e kody dla pola
+HEADER DNS.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
