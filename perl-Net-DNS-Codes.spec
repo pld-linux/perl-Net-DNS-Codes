@@ -10,7 +10,7 @@ Summary(pl):	Net::DNS::Codes - kolekcja kodów DNS
 Name:		perl-Net-DNS-Codes
 Version:	0.08
 Release:	1
-License:	GPL v1+ or Artistic
+License:	GPL v2+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	aeeb7c8afaa81b93e8c4c05b74d78155
