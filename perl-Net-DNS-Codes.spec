@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Net
-%define	pnam	DNS-Codes
+%define		pdir	Net
+%define		pnam	DNS-Codes
 Summary:	Net::DNS::Codes - collection of C library DNS codes
 Summary(pl):	Net::DNS::Codes - kolekcja kodów DNS
 Name:		perl-Net-DNS-Codes
