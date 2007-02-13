@@ -6,7 +6,7 @@
 %define		pdir	Net
 %define		pnam	DNS-Codes
 Summary:	Net::DNS::Codes - collection of C library DNS codes
-Summary(pl.UTF-8):   Net::DNS::Codes - kolekcja kodów DNS
+Summary(pl.UTF-8):	Net::DNS::Codes - kolekcja kodów DNS
 Name:		perl-Net-DNS-Codes
 Version:	0.08
 Release:	2
