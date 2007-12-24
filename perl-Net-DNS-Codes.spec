@@ -8,12 +8,12 @@
 Summary:	Net::DNS::Codes - collection of C library DNS codes
 Summary(pl.UTF-8):	Net::DNS::Codes - kolekcja kodów DNS
 Name:		perl-Net-DNS-Codes
-Version:	0.08
-Release:	2
+Version:	0.09
+Release:	1
 License:	GPL v2+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	aeeb7c8afaa81b93e8c4c05b74d78155
+# Source0-md5:	e1c5c38d557b60fefd0965569b9a08d9
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
